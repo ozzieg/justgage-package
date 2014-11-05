@@ -5,6 +5,6 @@ Package.describe({
 Package.on_use(function (api) {
   //api.use('jquery', 'client');
   api.use('clubfest:raphael');
-  api.add_files('justgage.1.0.1.min.js', 'client');
+  api.add_files('lib/justGage/justgage.js', 'client');
   api.export('JustGage', 'client');
 });
