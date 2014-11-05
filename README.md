@@ -5,5 +5,5 @@ JustGage is a handy JavaScript plugin for generating and animating nice &amp; cl
 Checkout http://justgage.com for details, demos, current release and more.
 
 - Clone into packages directory in your meteor app folder.
-- run meteor add justgage-package
+- run meteor add ozzieg:justgage-package
 - Reference JustGage from your JS code in html
